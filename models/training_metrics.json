@@ -1,0 +1,28 @@
+{
+  "accuracy": 0.7018571428571428,
+  "missing_deleted": 9424,
+  "train_size": 28000,
+  "test_size": 7000,
+  "sampled_rows": 35000,
+  "initial_rows": 44424,
+  "model_type": "hist_gradient_boosting",
+  "model_params": {
+    "max_iter": 400,
+    "learning_rate": 0.05,
+    "max_depth": 15,
+    "min_samples_leaf": 17,
+    "l2_regularization": 0.0,
+    "random_state": 42,
+    "verbose": 0
+  },
+  "classes": [
+    "Rainy Days Collection",
+    "Sunny Days Collection"
+  ],
+  "rainy_precision": 0.7271193589202868,
+  "rainy_recall": 0.5448798988621998,
+  "rainy_f1": 0.6229448961156279,
+  "sunny_precision": 0.6889176928062216,
+  "sunny_recall": 0.8313347236704901,
+  "sunny_f1": 0.7534554046072062
+}
