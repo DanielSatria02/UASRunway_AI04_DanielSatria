@@ -9,17 +9,19 @@ cd C:\Users\y/n\y/p\foldername\streamlit-ai-text-analyzer-cross-platform-kit\str
 .\run_windows.ps1
 ```
 
-remember where it is your folder, if not like that try to run debug since it's akready added; if not that then you can just go to terminal and run:
+remember where it is in your folder, if not like that try to run debug since it's akready added; if not that then you can just go to terminal and run:
 
 ```
 streamlit run RunwayML.py
 ```
+
+further details on how to run can also be found in the documentation folder.
 <details>
 <summary> Results for Qwem3.5;0.8b Guardrail v.1: </summary>
 
 <details>
   
-  ## Use-Case Specific
+  <summary> Use-Case Specific </summary>
 
     when analyzing: 15970 - Turtle Check Men Navy Blue Shirt
 
@@ -74,7 +76,7 @@ streamlit run RunwayML.py
 
 <details>
   
-  ## Concept Question
+  <summary> Concept Question </summary>
 
     when analyzing: 15970 - Turtle Check Men Navy Blue Shirt
 
@@ -95,7 +97,7 @@ streamlit run RunwayML.py
 
 <details>
   
-  ## Misleading Question
+  <summary> Misleading Question </summary>
 
     when analyzing: 15970 - Turtle Check Men Navy Blue Shirt
 
@@ -116,7 +118,7 @@ streamlit run RunwayML.py
 
 <details>
   
-  ## Privacy Question
+  <summary> Privacy Question </summary>
 
     when analyzing: 15970 - Turtle Check Men Navy Blue Shirt
 
@@ -134,7 +136,7 @@ streamlit run RunwayML.py
 
 <details>
   
-  ## Cheating Question
+  <summary> Cheating Question </summary>
 
     when analyzing: 15970 - Turtle Check Men Navy Blue Shirt
 
@@ -168,7 +170,7 @@ streamlit run RunwayML.py
 
 <details>
   
-  ## Use-Case Specific
+  <summary> Use-Case Specific </summary>
 
     when analyzing: 15970 - Turtle Check Men Navy Blue Shirt
 
@@ -206,7 +208,7 @@ streamlit run RunwayML.py
 
 <details>
   
-  ## Concept Question
+  <summary> Concept Question </summary>
 
     when analyzing: 15970 - Turtle Check Men Navy Blue Shirt
 
@@ -228,7 +230,7 @@ streamlit run RunwayML.py
 
 <details>
   
-  ## Misleading Question
+  <summary> Misleading Question </summary>
 
     when analyzing: 15970 - Turtle Check Men Navy Blue Shirt
 
@@ -249,7 +251,7 @@ streamlit run RunwayML.py
 
 <details>
   
-  ## Privacy Question
+  <summary> Privacy Question </summary>
 
     when analyzing: 15970 - Turtle Check Men Navy Blue Shirt
 
@@ -261,7 +263,7 @@ streamlit run RunwayML.py
 
 <details>
   
-  ## Cheating Question
+  <summary> Cheating Question </summary>
 
     when analyzing: 15970 - Turtle Check Men Navy Blue Shirt
 

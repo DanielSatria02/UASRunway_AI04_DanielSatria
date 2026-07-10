@@ -1,7 +1,7 @@
 # Runway Boutique - Project Structure
 
 ## Overview
-The project has been refactored using **Modular Organization** with a **hybrid ML + LLM approach** for better maintainability, scalability, and accuracy.
+The project has been refactored using **Modular Organizational** with a **hybrid ML + LLM approach** for better maintainability, scalability, and accuracy.
 
 ## Project Structure
 
@@ -16,21 +16,21 @@ streamlit-ai-text-analyzer-demo/
 │   ├── __init__.py
 │   ├── data_service.py                  # Data loading, cleaning, validation
 │   ├── ollama_service.py                # LLM API integration (Ollama)
-│   └── ml_classifier_service.py         # ⭐ Random Forest ML classifier
+│   └── ml_classifier_service.py         # Random Forest ML classifier
 │
 ├── utils/                               # Utility functions
 │   ├── __init__.py
 │   └── prompts.py                       # Prompt templates
 │
-├── models/                              # ⭐ Trained ML models
+├── models/                              # Trained ML models
 │   └── product_classifier.pkl           # Saved Random Forest model
 │
 ├── .vscode/
 │   └── launch.json                      # VS Code debug configuration
 │
-├── train_model.py                       # ⭐ Script to train ML model
-├── test_ml_classifier.py                # ⭐ Script to test predictions
-├── ML_DOCUMENTATION.md                  # ⭐ ML classifier documentation
+├── train_model.py                       # Script to train ML model
+├── test_ml_classifier.py                # Script to test predictions
+├── ML_DOCUMENTATION.md                  # ML classifier documentation
 ├── ARCHITECTURE.md                      # This file
 │
 └── run scripts

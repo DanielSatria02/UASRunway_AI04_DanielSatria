@@ -8,7 +8,7 @@ DEFAULT_MODEL = "qwen2.5:1.5b"
 OLLAMA_TIMEOUT = 180
 
 # Data Configuration
-DATA_FILE = "styles.csv"
+DATA_FILE = "styles.csv"                                                                                          
 MAX_PRODUCTS_IN_DROPDOWN = 500
 
 # UI Configuration
